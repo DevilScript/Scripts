@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RezWare-SoftWare/Dex/refs/heads/main/Dex.lua"))()
